@@ -1,0 +1,50 @@
+{
+  "The-Birth": {
+    "title": "The Internet is born, but there is no such thing called website",
+    "year": 1969,
+    "url" : "",
+    "next": "The-First-Website"
+  },
+  "The-First-Website": {
+    "title": "20 years later, the first website arrive",
+    "year": 1989,
+    "url" : "",
+    "next": "The-Birth_of_at_Sign"
+  },
+  "The-Birth_of_at_Sign": {
+    "title": "The Birth of @ Sign, generating confusions among newscasters",
+    "year": 1994,
+    "url" : "",
+    "next": "Welcome-to-the-Wired-World"
+  },
+  "Welcome-to-the-Wired-World": {
+    "title": "1 million domains launched by that time",
+    "year": 1997,
+    "url" : "",
+    "next": "Dot-Com-Boom"
+  },
+  "Dot-Com-Boom": {
+    "title": ".com boom peaks. PHP 4.0 released: the first purpose-built language for websites",
+    "year": 2000,
+    "url" : "",
+    "next": "Web-2.0"
+  },
+  "Web-2.0": {
+    "title": "The Internet becomes two-way street. Most website development was still done on live servers via FTP",
+    "year": 2004,
+    "url" : "",
+    "next": "Cloud-Computing-Takes-off"
+  },
+  "Cloud-Computing-Takes-off": {
+    "title": "Github.com launches, developers feel the pain of fragmented environments",
+    "year": 2009,
+    "url" : "",
+    "next": "Today"
+  },
+  "Today": {
+    "title": "JavaScript, Node.js, Express, and Handlebars are trending technogloes for web development",
+    "year": 2022,
+    "url" : "",
+    "next": "The-Birth"
+  }
+}
